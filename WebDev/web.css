@@ -1,0 +1,21 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#headerImage{
+    background-color: #F76902;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#headerText{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#login{
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 5%;
+}
